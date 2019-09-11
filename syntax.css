@@ -1,10 +1,10 @@
-/*Targeting elements / TAGS */
-
-span{
-    color:blue;
-
+h1{
+    font-weight: normal;
 }
 
-span{
-    color:red;
+p{
+    font-weight: 1200;
+    font-family: "Arial"
+
+
 }
